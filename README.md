@@ -1,4 +1,5 @@
 # 🐍 Cómo Crear un Ambiente de Desarrollo con Docker para Python en Windows 10
+[![Alt text](https://img.youtube.com/vi/uU0NWUVFiYA/0.jpg)](https://www.youtube.com/watch?v=uU0NWUVFiYA)
 
 En este tutorial aprenderás paso a paso cómo configurar un **entorno de desarrollo profesional con Docker para Python** en **Windows 10**, utilizando el potente framework **FastAPI**. Ideal para quienes desean evitar el clásico "¡en mi máquina funciona!" y quieren crear entornos portables y reproducibles.
 
